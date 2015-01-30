@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  grade: MyString
+  dob: 2015-01-30 00:12:12
+
+two:
+  first_name: MyString
+  last_name: MyString
+  grade: MyString
+  dob: 2015-01-30 00:12:12
